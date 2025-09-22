@@ -15,7 +15,6 @@
 ### 🔭 Currently working on
 - **Voice AI Agents** (LiveKit + LLMs)  
 - **Check-it** — Accountability habit tracker that donates to charity  
-- **AI Resume Critique Tool** (LLM-powered web app)
 
 ### 👯 Looking to collaborate on
 - **AI/agent frameworks**, **voice automation**, and creative LLM projects
@@ -25,16 +24,12 @@
 
 ### 🌱 Currently learning
 - **LLM evaluation & observability**  
-- **Bitmovin APIs for video streaming**  
 - Startup growth & GTM
 
 ### 💬 Ask me about
 - Claude, Codex, GPT, LiveKit Agents  
 - Full-stack development (Python, React, Node.js)  
 - Blending AI + marketing for real-world impact
-
-### ⚡ Fun fact
-I’m 6’3” ☕ + ⚽ addicted, and once pitched a tracker that fines you (and donates to charity) if you miss tasks.
 
 ---
 
@@ -77,13 +72,6 @@ I’m 6’3” ☕ + ⚽ addicted, and once pitched a tracker that fines you (an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sapar-shayan&show_icons=true&theme=tokyonight" alt="Sapar's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapar-shayan&theme=tokyonight" alt="GitHub streak"/>
-</p>
 
 ---
 
